@@ -70,5 +70,6 @@
     <camera mode="fixed" name="birdview" pos="-0.2 0 3.0" quat="0.7071 0 0 0.7071"/>
     <!-- agent view -->
     <camera mode="fixed" name="agentview" pos="1.0 0 1.75" quat="0.653 0.271 0.271 0.653"/>
+    <camera mode="fixed" name="basecam" pos="1.20741 4.393969999999998e-05 1.7129" quat="0.6060726046562195 0.3643229603767395 0.3644557595252991 0.6059016585350037" />
   </worldbody>
 </mujoco>
